@@ -208,4 +208,5 @@ __marimo__/
 
 finetuned_model/
 mlruns/
-distilbert_banking77/checkpoint-500/*
+distilbert_banking77/
+finetuned_hw_model/
